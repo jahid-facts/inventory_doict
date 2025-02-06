@@ -1,0 +1,39 @@
+.table {
+	width: 100%;
+	margin-bottom: 0px!important;
+}
+.table > thead > tr > th,.table > tbody > tr > td {
+	vertical-align: middle!important;
+	text-align: center!important;
+}
+.custable > tbody > tr.th-width > td:nth-child(1) {
+	width: 14%!important;
+}
+.custable > tbody > tr.th-width > td:nth-child(2) {
+	width: 17%!important;
+}
+.custable > tbody > tr.th-width > td:nth-child(3) {
+	width: 10%!important;
+}
+.custable > tbody > tr.th-width > td:nth-child(4) {
+	width: 10%!important;
+}
+.custable > tbody > tr.th-width > td:nth-child(5) {
+	width: 10%!important;
+}
+.custable > tbody > tr.th-width > td:nth-child(6) {
+	width: 10%!important;
+}
+.custable > tbody > tr.th-width > td:nth-child(7) {
+	width: 10%!important;
+}
+.custable > tbody > tr.th-width > td:nth-child(8) {
+	width: 12%!important;
+}
+.custable > tbody > tr.th-width > td:nth-child(9) {
+	width: 7%!important;
+}
+.w-100 {
+	width: 100%;
+	text-align: center!important;
+}

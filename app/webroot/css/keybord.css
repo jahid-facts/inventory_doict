@@ -1,0 +1,68 @@
+/*Needed CSS for bangla*/
+#banglaToolTip{
+	position:absolute;
+	display:block;
+	color:#FFF;
+	background:#183A52;
+	list-style:none;
+	padding:0;
+	z-index:22000;
+	width:auto;
+}
+#banglaToolTip li{
+	font-size:16px;
+	border-bottom:1px solid #FFF;
+	padding:7px 3px;
+	line-height:16px;
+}
+#banglaToolTip li.bangla_suggestion{
+	cursor: hand; cursor: pointer;
+	background-color:#c00;
+}
+#banglaToolTip li.bangla_suggestion b{
+	font-weight:normal;
+	text-decoration: underline;
+}
+#banglaToolTip li.bangla_suggestion:hover{
+	background:#183A52;
+}
+#banglaInpTool{
+	display:block;
+	height:30px;
+	overflow:hidden;
+	position:absolute;
+	color:#fff;
+	z-index:98;
+	width:auto;
+}
+#banglaInpTool a{
+	display:block;
+	float:left;
+	color:#fff;
+	height:25px;
+	width:52px;
+	margin:2px;
+	border:1px solid #fff;
+}
+#banglaInpTool a.banglaBtnActive{
+	border:1px solid #000;
+}
+#banglaInpTool a.banglaBtnHover{
+	border:1px solid #000;
+}
+
+
+#banglaInpTool a.English{
+	display: none;
+	/*background:url(../images/english.png) center;*/
+}
+#banglaInpTool a.Phonetic{
+	background:url(../images/phonotic.png) center;
+}
+#banglaInpTool a.Unijoy{
+	background:url(../images/unijoy.png) center;
+}
+
+#banglaInpTool a b{
+	display:none;
+}
