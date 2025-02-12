@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cc57dcd-a7b5-4028-9122-5e323060e449" name="Default" comment="" />
+    <ignored path="inventory.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="inventory" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/View/Users/view.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Categories/view.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Products/view.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Suppliers/view.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Departments/index.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Designations/index.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Measures/index.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Profiles/index.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Purchasedetails/index.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Requisitiondetails/index.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Requisitions/index.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Stocks/index.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Suppliers/index.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Users/index.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Stocks/stockrequisition.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Purchases/purchasereport.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Deliveries/report.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Requisitions/requisitionreport.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Stocks/stock.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Purchases/view.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Colors/add.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Sizes/add.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Colors/edit.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Sizes/edit.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Brands/add.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Brands/edit.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Brands/index.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Sizes/index.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Colors/index.ctp" />
+        <option value="H:/Sohana/Project/Inventory/category.php" />
+        <option value="$PROJECT_DIR$/app/View/Categories/index.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Purchases/index.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Purchases/edit.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Purchases/add.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Layouts/default.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Products/add.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Products/index.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Products/edit.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Requisitions/view.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Deliveries/index.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Settings/index.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Elements/admin_menu.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Settings/add.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Settings/edit.ctp" />
+        <option value="$PROJECT_DIR$/app/Controller/DeliveriesController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Blade files</id>
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Project Files" />
+        <subPane subId="Tests" />
+      </pane>
+      <pane id="Scratches">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Extensions" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.intellij.database" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyPsiNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inventory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.view.ctp">
+    <configuration default="false" name="view.ctp" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/inventory/app/View/Products/view.ctp">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.view.ctp" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.view.ctp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cc57dcd-a7b5-4028-9122-5e323060e449" name="Default" comment="" />
+      <created>1479706613482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1479706613482</updated>
+      <workItem from="1479706614889" duration="3810000" />
+      <workItem from="1479711157117" duration="400000" />
+      <workItem from="1479711648700" duration="15086000" />
+      <workItem from="1479789809726" duration="1083000" />
+      <workItem from="1479793374459" duration="37000" />
+      <workItem from="1479808146983" duration="2754000" />
+      <workItem from="1479813218427" duration="84000" />
+      <workItem from="1479813317481" duration="83000" />
+      <workItem from="1479813414030" duration="72000" />
+      <workItem from="1479813499944" duration="106000" />
+      <workItem from="1136052856997" duration="245000" />
+      <workItem from="1136053118833" duration="2899000" />
+      <workItem from="1479883423003" duration="499000" />
+      <workItem from="1480323548844" duration="990000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28148000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13616072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32755905" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Purchasedetails/index.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Profiles/index.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Purchases/index.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Requisitiondetails/index.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Requisitions/index.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Stocks/index.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Suppliers/index.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Stocks/stockrequisition.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Users/index.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Purchases/purchasereport.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Deliveries/deliveryview.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Deliveries/report.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Stocks/stock.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Requisitions/requisitionreport.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Purchases/view.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Products/add.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Colors/add.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Sizes/add.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Products/index.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Colors/edit.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Sizes/edit.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Measures/index.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Products/edit.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Brands/add.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Brands/edit.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Departments/index.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Sizes/index.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Colors/index.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Brands/index.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../H:/Sohana/Project/Inventory/category.php" />
+    <entry file="file:$PROJECT_DIR$/../../../H:/Sohana/Project/Inventory/category.html" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Categories/index.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../../ipsitaserver/htdocs/inventory/app/View/Elements/admin_menu.ctp" />
+    <entry file="file:$PROJECT_DIR$/../../..//$PROJECT_DIR$/app/View/Layouts/default.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="95" column="12" selection-start-line="95" selection-start-column="12" selection-end-line="95" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:$PROJECT_DIR$/../../..//$PROJECT_DIR$/app/View/Purchases/add.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="66" column="46" selection-start-line="66" selection-start-column="46" selection-end-line="66" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:$PROJECT_DIR$/../../..//$PROJECT_DIR$/app/View/Purchases/edit.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="67" column="47" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:$PROJECT_DIR$/../../..//$PROJECT_DIR$/app/View/Purchases/index.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="81" selection-start-line="16" selection-start-column="81" selection-end-line="16" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:$PROJECT_DIR$/../../..//$PROJECT_DIR$/app/View/Products/index.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="94" selection-start-line="16" selection-start-column="94" selection-end-line="16" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:$PROJECT_DIR$/../../..//$PROJECT_DIR$/app/View/Products/edit.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:$PROJECT_DIR$/../../..//$PROJECT_DIR$/app/View/Requisitions/view.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="85" column="23" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:$PROJECT_DIR$/../../..//$PROJECT_DIR$/app/View/Products/add.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:$PROJECT_DIR$/../../..//$PROJECT_DIR$/app/Model/Delivery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:$PROJECT_DIR$/../../..//$PROJECT_DIR$/app/View/Sizes/index.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="63" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:$PROJECT_DIR$/../../..//$PROJECT_DIR$/app/View/Settings/index.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="39" column="63" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:$PROJECT_DIR$/../../..//$PROJECT_DIR$/app/View/Sizes/edit.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:$PROJECT_DIR$/../../..//$PROJECT_DIR$/app/View/Settings/edit.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:$PROJECT_DIR$/../../..//$PROJECT_DIR$/app/View/Settings/add.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:$PROJECT_DIR$/../../..//$PROJECT_DIR$/app/View/Sizes/add.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:$PROJECT_DIR$/../../..//$PROJECT_DIR$/app/View/Elements/admin_menu.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:$PROJECT_DIR$/../../..//$PROJECT_DIR$/app/View/Deliveries/index.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="63" column="25" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:$PROJECT_DIR$/../../..//$PROJECT_DIR$/app/Controller/DeliveriesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
