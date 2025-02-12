@@ -1,0 +1,148 @@
+
+td {
+    line-height: 19px;
+    vertical-align: middle;
+}
+INPUT {
+    background: #fdfdfd none repeat scroll 0 0;
+    float: right;
+    padding: 2px 0;
+    text-indent: 5px;
+}
+.a {
+    font-size: 12px;
+}
+p {
+    border: 0 none;
+    float: left;
+    margin-top: 2px;
+    padding: 0;
+    vertical-align: middle;
+}
+.t2 {
+    font-size: 12px;
+    font-style: italic;
+    width: 552px;
+}
+.i1 {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    width: 580px;
+}
+.i2 {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    width: 670px;
+}
+.i3 {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    text-transform: capitalize;
+    width: 627px;
+}
+.i4 {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    float: left;
+    width: 300px;
+}
+.i5 {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    width: 695px;
+}
+.i6 {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    width: 436px;
+}
+.i7 {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    width: 675px;
+}
+.i8 {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 0;
+    width: 160px;
+}
+.i9 {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    width: 732px;
+}
+.text1 {
+    color: #3781b0;
+    font-family: Revue-Thin Regular;
+    font-style: normal;
+    font-weight: bold;
+    padding-right: 4px;
+}
+.text2 {
+    padding-right: 4px;
+    padding-top: 25px;
+}
+.mark {
+    background: #3e85b9 none repeat scroll 0 0;
+    color: #ffffff;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-right: 10px;
+    text-shadow: 1px 1px 1px #000;
+    font-size: 15px;
+}
+.b1 {
+    font-style: normal;
+}
+@media print {
+	
+	.ppreviewaction {
+	    display: none;
+	}
+
+	.table-bordered {
+	  border: 1px solid #dddddd;
+	}
+	.table {
+	    width: 100%;
+	    margin-bottom: 20px;
+	}
+	table {
+	    max-width: 100%;
+	    background-color: transparent;
+	}
+	
+	table {
+	    border-collapse: collapse;
+	    border-spacing: 0;
+	}
+	tr {
+	    display: table-row;
+	    vertical-align: inherit;
+	    border-color: inherit;
+	}
+	.table-bordered > thead > tr > th, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > tbody > tr > td, .table-bordered > tfoot > tr > td {
+	    border: 1px solid #dddddd;
+	}
+	.account {
+	    margin-left: 250px;
+	    margin-top: 20px;
+	}
+	.mark {
+	    background: #3e85b9 none repeat scroll 0 0;
+	    color: #ffffff;
+	    font-weight: bold;
+	    padding-left: 5px;
+	    padding-right: 10px;
+	    text-shadow: 1px 1px 1px #000;
+	    font-size: 15px;
+	}
+	.form-separated {
+	    border-top: 1px dashed #d5d5d5;
+		margin-top: 30px;
+	}
+	body {
+	  -webkit-print-color-adjust: exact;
+	}
+}

@@ -1,0 +1,145 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.fr{
+	float: right;
+}
+
+.fl{
+	float: left;
+}
+body{
+	font-size:12px;
+	text-transform:capitalize;
+	color:#0B3B17;
+}
+.main{
+	line-height:16px;
+	margin: 0 auto;
+	padding: 30px 0 0 0;
+}
+
+label{
+	  line-height: 24px;
+	  font-size: 18px;
+	  font-weight: normal !important;
+}
+
+.header{
+	min-height: 150px;
+}
+.flogo{
+	width: 80%;
+}
+
+img{
+	width: 100%;
+}
+
+.header-text{
+	font-size: 30px;
+}
+
+.photo{
+	width: 80%;
+	height:150px;
+	border: 1px solid #000;
+}
+
+.upload{
+	font-size: 12px;
+}
+
+.form_input{
+	width: 100%;
+	font-size: 19px;
+}
+
+.ft{
+	font-weight: normal;
+}
+
+
+.fon_n{
+	font-weight: normal !important;
+font-size: 18px;
+}
+.s_n{
+	width: 158px;
+}
+.room_no{
+	width: 67px;
+}
+.name{
+	width: 294px;
+	font-weight: bold;
+	color:red;
+}
+.num{
+	width: 331px;
+	color:#ooo;
+	transform:uppercase;
+}
+.addr{
+	width: 329px;
+	color:#0C23EC;
+}
+.prof {
+  width: 317px;
+  color:#303670;
+}
+.Per_visit {
+  width: 286px;
+  color:#703030;
+}
+.date1 {
+  width: 155px;
+  color:#0B3B17;
+}
+.time {
+  width: 153px;
+  color:red
+}
+.nam_off {
+  width: 217px;
+  color:red;
+}
+.date2 {
+  width: 155px;
+  color:#0B3B17;
+}
+.tel {
+  width: 164px;
+  color:red;
+}
+.des {
+  width: 308px;
+  color:red;
+ 
+}
+.dep {
+  width: 310px;
+  color:blue;
+}
+.minis{
+	 width: 310px;
+}
+.cont{
+	color:red;
+}
+.pe{
+	text-align: center;
+	color:green;
+	font-family:"SolaimanLipi", Arial, sans-serif;
+	padding:7px;
+	font-size: 11px;
+}
+
+.se{
+	font-size: 14px;
+	font-family:"SolaimanLipi", Arial, sans-serif;
+	text-align: center;
+	font-weight: bold;
+}

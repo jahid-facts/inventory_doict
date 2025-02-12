@@ -1,0 +1,62 @@
+/*------------------------------------*\
+-------- Page Styles: Accordion
+\*------------------------------------*/
+*{
+	margin: 0;
+	padding: 0;
+}
+.site-header-wrap {
+	margin-bottom:60px;
+	border-bottom:1px solid #cd9ad6;
+}
+
+/*------------------------------------*\
+-------- DEMO Code: accordion
+\*------------------------------------*/
+/*----- Accordion -----*/
+.accordion, .accordion * {
+	-webkit-box-sizing:border-box; 
+	-moz-box-sizing:border-box; 
+	box-sizing:border-box;
+}
+
+.accordion {
+  background: #f7f7f7 none repeat scroll 0 0;
+  border-radius: 3px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+  margin: 15px 0;
+  overflow: hidden;
+}
+
+/*----- Section Titles -----*/
+.accordion-section-title {
+  background: #519033 none repeat scroll 0 0;
+  border-bottom: 1px solid #1a1a1a;
+  color: #fff;
+  display: inline-block;
+  font-size: 1.2em;
+  font-weight: bold;
+  padding: 15px;
+  transition: all 0.15s linear 0s;
+  width: 100%;
+}
+
+.accordion-section-title.active, .accordion-section-title:hover {
+	background:#99ca3b;
+	/* Type */
+	text-decoration:none;
+}
+
+.accordion-section:last-child .accordion-section-title {
+	border-bottom:none;
+}
+
+/*----- Section Content -----*/
+.accordion-section-content {
+	padding:15px;
+	display:none;
+}
+.accordion-section a{
+	text-decoration: none;
+	text-transform: uppercase;
+}
